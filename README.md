@@ -142,4 +142,8 @@ names: !!set
 
 ```
 
+# Tools
 
+Datree - YAML validation checks.
+Monocle by Kubeshop - largescale YAML visualization.
+Lens - K8s IDE
